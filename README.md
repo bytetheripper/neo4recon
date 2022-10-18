@@ -1,2 +1,6 @@
 # neo4recon
 An attack surface management and recon tool using Python and neo4j
+
+Still under heavy production...
+
+See https://twitter.com/bytetheripper/status/1582451923617075200 for a sneak peek...
